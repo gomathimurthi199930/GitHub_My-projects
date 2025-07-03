@@ -20,3 +20,12 @@ This project connects SQL Server with Power BI to visualize historical and forec
 - Is there a correlation between temperature and humidity?
 
  Dashboard Interation <a href="https://github.com/gomathimurthi199930/GitHub_My-projects/blob/main/Weather%20History%20Project.pbix"> view Dashboard</a>
+
+## Process
+- Data Preparation: Imported historical weather data (2006–2025) into SQL Server and structured it with key attributes like temperature, humidity, wind speed, and visibility.
+
+- Data Connection: Connected SQL Server to Power BI and loaded the required tables for analysis.
+
+- Data Transformation: Cleaned and transformed the data using Power Query and DAX to create calculated fields and KPIs.
+
+- Dashboard Visualization: Built interactive visuals (charts, slicers, KPIs) in Power BI to analyze weatherdata.
