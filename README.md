@@ -36,3 +36,13 @@ This project connects SQL Server with Power BI to visualize historical and forec
 - Forecast data (2017–2025) suggests slight temperature increases with stable patterns.
 - Visibility is lowest during breezy and foggy conditions, accounting for over 59% of cases.
 - A negative correlation exists between temperature and humidity, indicating inverse behavior.
+- The weather forecast chart (2017–2025) shows a gradual rise in average temperature over time. This suggests a potential warming trend and highlights the importance of monitoring future climate changes.
+
+
+
+
+
+
+
+
+
