@@ -6,15 +6,15 @@ This project connects SQL Server with Power BI to visualize historical and forec
 -<a href="https://github.com/gomathimurthi199930/GitHub_My-projects/blob/main/WeatherHistory.csv"> Data set</a>
 
 ## Questions:
-What was the highest recorded temperature? (year)
-What was the lowest recorded temperature? (year) 
-What is the average wind speed for each season? 
-What is the average humidity?
-Which month had the highest average temperature?
-Which month had the lowest average temperature? 
-What is the average temperature for each month?
-What is the average temperature over the year?
-What is the temperature variation (Diff between max & min temp) in each month?
-Average temperature prediction for after 10 years?
-What is top 5 lowest visibility based on seasons?
-Is there a correlation between temperature and humidity?
+- What was the highest recorded temperature? (year)
+- What was the lowest recorded temperature? (year) 
+- What is the average wind speed for each season? 
+- What is the average humidity?
+- Which month had the highest average temperature?
+- Which month had the lowest average temperature? 
+- What is the average temperature for each month?
+- What is the average temperature over the year?
+- What is the temperature variation (Diff between max & min temp) in each month?
+- Average temperature prediction for after 10 years?
+- What is top 5 lowest visibility based on seasons?
+- Is there a correlation between temperature and humidity?
