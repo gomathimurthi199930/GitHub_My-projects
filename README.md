@@ -11,7 +11,7 @@ This project connects SQL Server with Power BI to visualize historical and forec
 - What is the average wind speed for each season? 
 - What is the average humidity?
 - Which month had the highest average temperature?
-- Which month had the lowest average temperature? 
+- Which month had the lowest average temperature?
 - What is the average temperature for each month?
 - What is the average temperature over the year?
 - What is the temperature variation (Diff between max & min temp) in each month?
