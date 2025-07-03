@@ -27,7 +27,7 @@ This project connects SQL Server with Power BI to visualize historical and forec
 - Data Transformation: Cleaned and transformed the data using Power Query and DAX to create calculated fields and KPIs.
 - Dashboard Visualization: Built interactive visuals (charts, slicers, KPIs) in Power BI to analyze weather data.
 
-  ## Dashboard
+## Dashboard
   ![Dashboard](https://github.com/user-attachments/assets/c651b606-4911-45df-a668-1eb98f6bf335)
 
   
