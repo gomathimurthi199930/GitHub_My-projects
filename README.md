@@ -1,1 +1,3 @@
-# GitHub_My-projects
+# PowerBI_Project
+## Project Objective
+This project connects SQL Server with Power BI to visualize historical and forecasted weather data.It focuses on analyzing temperature, humidity, wind speed, and visibility through dynamic dashboards.The aim is to identify patterns, trends, and anomalies to support weather-related decision-making.
