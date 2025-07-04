@@ -4,7 +4,7 @@ This project connects SQL Server with Power BI to visualize historical and forec
 
 ## Tool used
 - Microsoft Power BI Desktop
-- 
+  
 ## Dataset used
 - <a href="https://github.com/gomathimurthi199930/GitHub_My-projects/blob/main/WeatherHistory.csv"> view Data set</a>
 
